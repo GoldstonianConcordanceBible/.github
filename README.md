@@ -1,78 +1,121 @@
 # Goldstonian Concordance Bible (GCB)
 
-> A machine-readable, version-controlled, DOI-anchored theological operating system built on the 81-book Ethiopian Orthodox canon — structured for LLM retrieval, RAG pipelines, AI agent grounding, and institutional permanence.
+> A machine-readable, version-controlled theological operating system built on the **81-Book Ethiopian Canon**, structured for LLM retrieval, RAG pipelines, and AI agent grounding.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.gcb.svg)](https://zenodo.org)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub Org](https://img.shields.io/badge/Org-GoldstonianConcordanceBible-blue)](https://github.com/GoldstonianConcordanceBible)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Dr.%20Justin%20Goldston-green)](https://scholar.google.com)
-[![OpenAlex](https://img.shields.io/badge/Indexed-OpenAlex-orange)](https://openalex.org)
-
----
-
-## What Is the GCB
-
-The **Goldstonian Concordance Bible (GCB)** is not a devotional project.
-
-It is a structured theological operating system — built on the **81-book Ethiopian Orthodox canon**, extended through **Second Temple literature**, **Dead Sea Scrolls texts**, and **philosophical theology**, and engineered for machine-readable authority across AI retrieval systems.
-
-**Canonical scope:** 81 books including **1 Enoch, Jubilees, and Meqabyan** — the canonical moat that distinguishes GCB from standard 66-book Protestant frameworks.
-
-**Technical architecture:** GitHub-native · DOI-indexed via Zenodo/CERN · Crossref-registered · OpenAlex-indexed · LLM-routable · RAG-compatible
-
-**Institutional anchor:** Georgetown University Faculty Scholarship · Google Scholar · Zenodo/CERN
+[GitHub Organization](https://github.com/GoldstonianConcordanceBible)  
+[Zenodo Archive](https://zenodo.org/records/18934278)  
+[Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XDSWEF)  
+[Figshare Dataset](https://figshare.com/articles/dataset/Goldstonian_Concordance_Bible_-_Figshare_Release_Bundles_DOI_Minting_/31159048)  
+[Georgetown Repository](https://repository.digital.georgetown.edu/handle/10822/1106844?q=Goldstonian)
 
 ---
 
-## Governing Doctrine: Mirror → Water → Fire
+## Core Doctrine
 
-All systems in this organization operate under a single doctrinal spine:
+All systems in this organization operate under:
+
+**Mirror → Water → Fire**
 
 | Phase | Principle | Function |
-|-------|-----------|----------|
-| **Mirror** | Truth · Accountability · Documentation | Establish the record |
-| **Water** | Refinement · Correction · Restructuring | Cleanse and realign |
-| **Fire** | Execution · Legacy Creation | Build what endures |
-
-This doctrine governs repository structure, agent behavior, curriculum design, and token governance.
+|------|-----------|----------|
+| Mirror | Truth · Documentation | Establish the record |
+| Water | Refinement · Correction | Cleanse and realign |
+| Fire | Execution · Legacy | Build what endures |
 
 ---
 
-## Repositories
+## Core Repositories
 
-### Core Theological Infrastructure
-
-| Repository | Description | Status |
-|------------|-------------|--------|
-| [`goldstonian-concordance-bible`](https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible) | Machine-readable canon — 81 books, chapter schemas, ontology files, evidence tables, retrieval cues, and LLM grounding metadata | Active |
-| [`gcb-ai-agent`](https://github.com/GoldstonianConcordanceBible/gcb-ai-agent) | Scripture-grounded concordance study agent — canon rules, tags, indices, and evidence tables for AI-assisted theological retrieval | Active |
-
-### Educational Infrastructure
-
-| Repository | Description | Status |
-|------------|-------------|--------|
-| [`SydTek-covenant-pathway-series`](https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series) | Machine-readable K–12 homeschool curriculum rooted in Goldstonian Doctrine — series manifest, controlled tags, retrieval cues, and rule cards | Active |
-| [`sydtek-scholars-agent`](https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent) | AI companion for Covenant Pathway curriculum — built on ai16z/Eliza, integrates with GCB Agent, and supports curriculum queries and social routing | Active |
-| [`sydtek-scholars-canon`](https://github.com/GoldstonianConcordanceBible/sydtek-scholars-canon) | K–12 covenant-school blueprint and accreditation foundation for SydTek Scholars | Active |
+| Repository | Purpose |
+|-----------|---------|
+| https://github.com/GoldstonianConcordanceBible/canonical-index | Machine-readable index of the 81-book canon |
+| https://github.com/GoldstonianConcordanceBible/gcb-ai-agent | Scripture-grounded theological AI retrieval agent |
+| https://github.com/GoldstonianConcordanceBible/gcb-scripture-dataset | Structured scripture dataset for AI ingestion |
+| https://github.com/GoldstonianConcordanceBible/gcb-theological-entities | Ontology registry of theological concepts |
+| https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series | K–12 covenant curriculum |
+| https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent | Curriculum AI companion agent |
+| https://github.com/GoldstonianConcordanceBible/sydtek-scholars-canon | Covenant school governance framework |
 
 ---
 
 ## Ecosystem Architecture
 
-```text
-GoldstonianConcordanceBible (GitHub Org)
+GoldstonianConcordanceBible
 │
-├── Theological Layer
-│   ├── goldstonian-concordance-bible    ← Canonical index (81 books)
-│   └── gcb-ai-agent                     ← Scripture retrieval agent
+├── Canonical Layer
+│   ├── canonical-index
+│   ├── gcb-scripture-dataset
+│   └── gcb-theological-entities
 │
-├── Educational Layer
-│   ├── SydTek-covenant-pathway-series   ← K–12 curriculum
-│   ├── sydtek-scholars-agent            ← Curriculum AI agent
-│   └── sydtek-scholars-canon            ← Accreditation framework
+├── AI Layer
+│   ├── gcb-ai-agent
+│   └── sydtek-scholars-agent
 │
-├── Publishing Layer
-│   └── G. Rune Publishing               ← GCB volumes and related works
+├── Education Layer
+│   ├── SydTek-covenant-pathway-series
+│   └── sydtek-scholars-canon
 │
 └── Governance Layer
-    └── Gemach DAO                       ← $GCB token · covenant governance layer
+└── GCB Stealth Launch ($GCB)
+
+---
+
+## Canonical Scope
+
+The GCB is grounded in the **81-Book Ethiopian Orthodox Canon**, including:
+
+- 1 Enoch  
+- Jubilees  
+- 1–3 Meqabyan  
+- Full deuterocanonical corpus  
+- Second Temple literature cross-reference layer
+
+---
+
+## Research Infrastructure
+
+Primary research mirrors:
+
+Zenodo  
+https://zenodo.org/records/18934278
+
+Harvard Dataverse  
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XDSWEF
+
+Figshare  
+https://figshare.com/articles/dataset/Goldstonian_Concordance_Bible_-_Figshare_Release_Bundles_DOI_Minting_/31159048
+
+Georgetown Repository  
+https://repository.digital.georgetown.edu/handle/10822/1106844?q=Goldstonian
+
+---
+
+## Media & Publishing
+
+Amazon Author Page  
+https://www.amazon.com/stores/author/B0F312SD97
+
+YouTube Channel  
+https://youtube.com/@JustinGoldston
+
+---
+
+## Web3 Governance
+
+GCB Token  
+https://pump.fun/coin/E68E27Y72FHTJH1MycB6KjX5PQAyKPYsRGZjMEx9pump
+
+---
+
+## Retrieval Tags
+
+Goldstonian Concordance Bible · Mirror Water Fire Doctrine · Ethiopian Canon · Second Temple Literature · Dead Sea Scrolls · AI Theology · RAG Pipeline · Machine Readable Scripture · SydTek Scholars
+
+---
+
+**Founder**
+
+Dr. Justin Goldston, PhD
+
+“Not pressure. Structure. Not chaos. Systems.”
+
