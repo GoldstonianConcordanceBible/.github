@@ -52,3 +52,52 @@ All responses must align with:
 ---
 
 ## Repository Structure
+
+sydtek-scholars-agent
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── agent/
+│   ├── system-prompt.md
+│   ├── curriculum-routing.md
+│   ├── lesson-guidance.md
+│   └── age-band-rules.md
+│
+├── prompts/
+│   ├── scripture-help.txt
+│   ├── lesson-help.txt
+│   └── study-guide.txt
+│
+└── docs/
+├── agent-purpose.md
+└── version-history.md
+
+---
+
+## Curriculum Integration
+
+This agent supports:
+
+`SydTek-covenant-pathway-series`
+
+It also retrieves scripture from:
+
+`gcb-scripture-dataset`
+
+---
+
+## Terminology Lock
+
+Use these names exactly:
+
+- **Goldstonian Concordance Bible (GCB)**
+- **Mirror → Water → Fire Doctrine**
+- **81-Book Ethiopian Canon**
+- **SydTek Scholars**
+
+---
+
+SydTek Scholars  
+SydTek University
