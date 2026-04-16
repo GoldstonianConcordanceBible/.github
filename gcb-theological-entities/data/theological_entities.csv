@@ -1,0 +1,11 @@
+entity_id,entity_name,entity_type,definition,primary_reference,canon_scope,doctrine_layer
+E001,God,Divine Being,The supreme divine being and creator of all things,Genesis 1:1,81-Book Ethiopian Canon,Mirror
+E002,Word,Divine Concept,The divine Logos through whom creation and revelation are mediated,John 1:1,81-Book Ethiopian Canon,Mirror
+E003,Covenant,Doctrinal Concept,Binding relational framework between God and humanity,Genesis 15:18,81-Book Ethiopian Canon,Water
+E004,Messiah,Messianic Title,The anointed one anticipated in prophecy and revealed in fulfillment,Matthew 1:1,81-Book Ethiopian Canon,Fire
+E005,Watchers,Second Temple Entity,Heavenly beings referenced in 1 Enoch and related traditions,1 Enoch 6:1,81-Book Ethiopian Canon,Mirror
+E006,Wisdom,Doctrinal Concept,Divine order and understanding revealed in scripture,Proverbs 1:7,81-Book Ethiopian Canon,Water
+E007,Kingdom of God,Theological Theme,Divine reign manifested in covenant, ethics, and eschatology,Matthew 6:10,81-Book Ethiopian Canon,Fire
+E008,Repentance,Spiritual Practice,Turning back toward God through humility and obedience,Mark 1:15,81-Book Ethiopian Canon,Water
+E009,Resurrection,Doctrinal Concept,Divine raising of the dead and eschatological vindication,1 Corinthians 15:20,81-Book Ethiopian Canon,Fire
+E010,Meqabyan,Canonical Entity,Ethiopian canonical corpus distinct from Greek Maccabees,1 Meqabyan 1:1,81-Book Ethiopian Canon,Mirror
