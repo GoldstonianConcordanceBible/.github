@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "gcb-ai-agent"
+message: "If you use this repository, please cite it as part of the Goldstonian Concordance Bible ecosystem."
+type: software
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent"
+url: "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent"
+license: "CC-BY-4.0"
+keywords:
+  - "Goldstonian Concordance Bible (GCB)"
+  - "theological AI"
+  - "81-Book Ethiopian Canon"
+  - "Mirror → Water → Fire Doctrine"
+  - "AI agent grounding"
+abstract: >
+  Scripture-grounded retrieval agent for the Goldstonian Concordance Bible ecosystem,
+  designed for canon-aware search, doctrinally aligned responses, and durable theological AI workflows.
