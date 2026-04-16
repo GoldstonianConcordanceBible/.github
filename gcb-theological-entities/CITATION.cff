@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "gcb-theological-entities"
+message: "If you use this repository, please cite it as part of the Goldstonian Concordance Bible ecosystem."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-theological-entities"
+url: "https://github.com/GoldstonianConcordanceBible/gcb-theological-entities"
+license: "CC-BY-4.0"
+keywords:
+  - "Goldstonian Concordance Bible (GCB)"
+  - "theological ontology"
+  - "Mirror → Water → Fire Doctrine"
+  - "81-Book Ethiopian Canon"
+  - "LLM grounding"
+abstract: >
+  Ontology registry for the Goldstonian Concordance Bible ecosystem,
+  providing machine-readable theological entities, doctrinal concepts,
+  aliases, and retrieval structures for AI systems.
