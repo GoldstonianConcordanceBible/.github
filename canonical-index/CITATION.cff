@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "canonical-index"
+message: "If you use this repository, please cite it as part of the Goldstonian Concordance Bible ecosystem."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+repository-code: "https://github.com/GoldstonianConcordanceBible/canonical-index"
+url: "https://github.com/GoldstonianConcordanceBible/canonical-index"
+license: "CC-BY-4.0"
+keywords:
+  - "Goldstonian Concordance Bible (GCB)"
+  - "81-Book Ethiopian Canon"
+  - "Mirror → Water → Fire Doctrine"
+  - "LLM retrieval"
+  - "RAG pipeline"
+abstract: >
+  Machine-readable canonical index for the Goldstonian Concordance Bible ecosystem,
+  structured for theological AI retrieval, ontology alignment, and long-horizon institutional use.
