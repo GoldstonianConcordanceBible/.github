@@ -1,0 +1,82 @@
+book_number,book_slug,book_title,canon_group,testament,canonical_status,tradition,notes
+1,genesis,Genesis,Torah,Old Testament,canonical,Ethiopian Orthodox,Core canon
+2,exodus,Exodus,Torah,Old Testament,canonical,Ethiopian Orthodox,Core canon
+3,leviticus,Leviticus,Torah,Old Testament,canonical,Ethiopian Orthodox,Core canon
+4,numbers,Numbers,Torah,Old Testament,canonical,Ethiopian Orthodox,Core canon
+5,deuteronomy,Deuteronomy,Torah,Old Testament,canonical,Ethiopian Orthodox,Core canon
+6,joshua,Joshua,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+7,judges,Judges,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+8,ruth,Ruth,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+9,1-samuel,1 Samuel,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+10,2-samuel,2 Samuel,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+11,1-kings,1 Kings,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+12,2-kings,2 Kings,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+13,1-chronicles,1 Chronicles,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+14,2-chronicles,2 Chronicles,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+15,ezra,Ezra,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+16,nehemiah,Nehemiah,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+17,tobit,Tobit,Deuterocanon,Old Testament,canonical,Ethiopian Orthodox,Expanded canon
+18,judith,Judith,Deuterocanon,Old Testament,canonical,Ethiopian Orthodox,Expanded canon
+19,esther,Esther,Historical Books,Old Testament,canonical,Ethiopian Orthodox,Core canon
+20,1-maccabees,1 Maccabees,Deuterocanon,Old Testament,canonical,Comparative Layer,Comparative reference
+21,2-maccabees,2 Maccabees,Deuterocanon,Old Testament,canonical,Comparative Layer,Comparative reference
+22,job,Job,Wisdom,Old Testament,canonical,Ethiopian Orthodox,Core canon
+23,psalms,Psalms,Wisdom,Old Testament,canonical,Ethiopian Orthodox,Core canon
+24,proverbs,Proverbs,Wisdom,Old Testament,canonical,Ethiopian Orthodox,Core canon
+25,ecclesiastes,Ecclesiastes,Wisdom,Old Testament,canonical,Ethiopian Orthodox,Core canon
+26,song-of-songs,Song of Songs,Wisdom,Old Testament,canonical,Ethiopian Orthodox,Core canon
+27,wisdom-of-solomon,Wisdom of Solomon,Deuterocanon,Old Testament,canonical,Ethiopian Orthodox,Expanded canon
+28,sirach,Sirach,Deuterocanon,Old Testament,canonical,Ethiopian Orthodox,Expanded canon
+29,isaiah,Isaiah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+30,jeremiah,Jeremiah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+31,lamentations,Lamentations,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+32,baruch,Baruch,Deuterocanon,Old Testament,canonical,Ethiopian Orthodox,Expanded canon
+33,ezekiel,Ezekiel,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+34,daniel,Daniel,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+35,hosea,Hosea,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+36,joel,Joel,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+37,amos,Amos,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+38,obadiah,Obadiah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+39,jonah,Jonah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+40,micah,Micah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+41,nahum,Nahum,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+42,habakkuk,Habakkuk,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+43,zephaniah,Zephaniah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+44,haggai,Haggai,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+45,zechariah,Zechariah,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+46,malachi,Malachi,Prophets,Old Testament,canonical,Ethiopian Orthodox,Core canon
+47,1-enoch,1 Enoch,Second Temple,Old Testament,canonical,Ethiopian Orthodox,Canonical moat
+48,jubilees,Jubilees,Second Temple,Old Testament,canonical,Ethiopian Orthodox,Canonical moat
+49,1-meqabyan,1 Meqabyan,Meqabyan,Old Testament,canonical,Ethiopian Orthodox,Canonical moat
+50,2-meqabyan,2 Meqabyan,Meqabyan,Old Testament,canonical,Ethiopian Orthodox,Canonical moat
+51,3-meqabyan,3 Meqabyan,Meqabyan,Old Testament,canonical,Ethiopian Orthodox,Canonical moat
+52,matthew,Matthew,Gospels,New Testament,canonical,Ethiopian Orthodox,Core canon
+53,mark,Mark,Gospels,New Testament,canonical,Ethiopian Orthodox,Core canon
+54,luke,Luke,Gospels,New Testament,canonical,Ethiopian Orthodox,Core canon
+55,john,John,Gospels,New Testament,canonical,Ethiopian Orthodox,Core canon
+56,acts,Acts,New Testament History,New Testament,canonical,Ethiopian Orthodox,Core canon
+57,romans,Romans,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+58,1-corinthians,1 Corinthians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+59,2-corinthians,2 Corinthians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+60,galatians,Galatians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+61,ephesians,Ephesians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+62,philippians,Philippians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+63,colossians,Colossians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+64,1-thessalonians,1 Thessalonians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+65,2-thessalonians,2 Thessalonians,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+66,1-timothy,1 Timothy,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+67,2-timothy,2 Timothy,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+68,titus,Titus,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+69,philemon,Philemon,Pauline Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+70,hebrews,Hebrews,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+71,james,James,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+72,1-peter,1 Peter,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+73,2-peter,2 Peter,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+74,1-john,1 John,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+75,2-john,2 John,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+76,3-john,3 John,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+77,jude,Jude,General Epistles,New Testament,canonical,Ethiopian Orthodox,Core canon
+78,revelation,Revelation,Apocalyptic,New Testament,canonical,Ethiopian Orthodox,Core canon
+79,sinodos,Sinodos,Church Order,Appendix,canonical,Ethiopian Orthodox,Broader canon layer
+80,clement,1 Clement,Church Fathers,Appendix,canonical,Ethiopian Orthodox,Broader canon layer
+81,didascalia,Didascalia,Church Order,Appendix,canonical,Ethiopian Orthodox,Broader canon layer
