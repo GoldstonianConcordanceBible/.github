@@ -1,0 +1,6 @@
+test_id,query,expected_primary_source,expected_reference,notes
+CRT001,What is the first book of the canon?,canonical-index,Genesis,Canonical order question
+CRT002,Is 1 Enoch in the canon?,canonical-index,1 Enoch 1:1,Canonical moat question
+CRT003,What is John 1:1?,gcb-scripture-dataset,John 1:1,Verse retrieval question
+CRT004,What does Meqabyan refer to?,gcb-theological-entities,1 Meqabyan 1:1,Entity distinction question
+CRT005,What is Mirror Water Fire?,gcb-theological-entities,MWF001,Doctrine layer question
