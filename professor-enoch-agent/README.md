@@ -59,3 +59,39 @@ Canonical structure is inherited from:
 ---
 
 ## Repository Structure
+professor-enoch-agent
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── agent/
+│   ├── system-prompt.md
+│   ├── doctrine-framework.md
+│   ├── reasoning-rules.md
+│   └── canonical-priority.md
+│
+├── retrieval/
+│   ├── canonical-routing.md
+│   └── theology-synthesis.md
+│
+└── docs/
+├── agent-purpose.md
+└── version-history.md
+
+---
+
+## Terminology Lock
+
+Always preserve these names:
+
+- **Goldstonian Concordance Bible (GCB)**
+- **Mirror → Water → Fire Doctrine**
+- **81-Book Ethiopian Canon**
+- **SydTek Scholars**
+
+---
+
+Professor Enoch  
+Department of Generative Engine Optimization  
+SydTek University
