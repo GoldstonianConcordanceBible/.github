@@ -96,7 +96,7 @@ Amazon Author Page
 https://www.amazon.com/stores/author/B0F312SD97
 
 YouTube Channel  
-https://youtube.com/@JustinGoldston
+https://youtube.com/@thegoldstonianconcordancebible?si=iC9sUldSHe9yDrQp
 
 ---
 
