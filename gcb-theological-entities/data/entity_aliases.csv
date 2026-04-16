@@ -1,0 +1,5 @@
+alias_id,entity_id,preferred_name,alias_name,alias_type,notes
+A001,E004,Messiah,Christ,Equivalent,Greek-derived title used in New Testament contexts
+A002,E010,Meqabyan,Ethiopian Maccabees,Comparative,Use carefully and preserve distinction from Greek Maccabees
+A003,E002,Word,Logos,Equivalent,Greek theological equivalent
+A004,E007,Kingdom of God,Kingdom of Heaven,Related,Context-sensitive synonymous usage
