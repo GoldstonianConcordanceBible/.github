@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "SydTek University"
+message: "If you use materials from this repository, please cite SydTek University as the institutional source."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+repository-code: "https://github.com/GoldstonianConcordanceBible/sydtek-university"
+url: "https://github.com/GoldstonianConcordanceBible/sydtek-university"
+license: "CC-BY-4.0"
+keywords:
+  - "SydTek University"
+  - "Goldstonian Concordance Bible (GCB)"
+  - "Mirror → Water → Fire Doctrine"
+  - "theological AI"
+abstract: >
+  Institutional repository representing the academic and research infrastructure
+  surrounding the Goldstonian Concordance Bible ecosystem.
