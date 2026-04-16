@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "SydTek Covenant Pathway Series"
+message: "If you use this repository, please cite it as part of the Goldstonian Concordance Bible ecosystem."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+repository-code: "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series"
+url: "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series"
+license: "CC-BY-4.0"
+keywords:
+  - "SydTek Scholars"
+  - "Goldstonian Concordance Bible (GCB)"
+  - "Covenant Pathway Curriculum"
+  - "Mirror → Water → Fire Doctrine"
+  - "faith-based education"
+abstract: >
+  Machine-readable K–12 curriculum framework grounded in the Goldstonian Concordance Bible ecosystem.
